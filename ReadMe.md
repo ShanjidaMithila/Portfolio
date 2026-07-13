@@ -56,7 +56,6 @@ Explore my micro news graphics and news card designs showcasing modern visual st
 
 - [Black & White Caption Notification Quotes Instagram Post](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/Black%20%26%20White%20Caption%20Notification%20Quotes%20Instagram%20Post_20260422_181659_0000.png)
 - [Black & White Caption Notification Quotes Instagram Post (v2)](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/Black%20%26%20White%20Caption%20Notification%20Quotes%20Instagram%20Post_20260422_191454_0000.png)
-- [White Simple Architecture Cover Online Portfolio](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/White%20Simple%20Architecture%20Cover%20Online%20Portfolio_20260420_070506_0000.png)
 - [ifeel80s Announces Indefinite Hiatus Following World Tour](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/ifeel80s%20Announces%20Indefinite%20Hiatus%20Following%20World%20Tour_20260422_195912_0000.png)
 
 <H4> Let’s connect and see how I can help you hit your goals. </H4>

@@ -17,7 +17,7 @@ I'm dedicated to creating quality work and building meaningful connections. I en
 
 Explore my work organized by category. Each folder below contains images, videos, and project details.
 
-### 📂 [Project Folder 1](#project-1)
+### 📂 [Micro-News Graphics/News Cards](#project-1)
 - **Description:** Add your project description here
 - **Media:** [Images/Videos] — Click to view
 
@@ -28,21 +28,6 @@ Explore my work organized by category. Each folder below contains images, videos
 ### 📂 [Project Folder 3](#project-3)
 - **Description:** Add your project description here
 - **Media:** [Images/Videos] — Click to view
-
----
-
-## 📸 Uploading Work Samples
-
-To add your images and videos to this portfolio:
-
-1. **Create folders** in this repository for each project/category
-2. **Upload images & videos** to their respective folders
-3. **Update the README** with links and descriptions
-4. **Organize by category** (e.g., `Design-Work/`, `Photography/`, `Videos/`, etc.)
-
-**Supported formats:**
-- Images: `.jpg`, `.png`, `.gif`, `.webp`
-- Videos: `.mp4`, `.mov`, `.webm`
 
 ---
 

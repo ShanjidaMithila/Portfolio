@@ -48,6 +48,8 @@ I don’t believe in over-complicating things with "posh" talk. I focus on being
 
 I am highly motivated to earn my first few milestones here, so you can expect 100% dedication and fast turnarounds on every task.
 
+<H1>Work Samples</H1>
+
 Let’s connect and see how I can help you hit your goals.
 
 * 🌍  I'm based in Bangladesh

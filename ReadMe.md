@@ -54,6 +54,7 @@ I am highly motivated to earn my first few milestones here, so you can expect 10
 <a href="https://github.com/ShanjidaMithila/Work-Samples/blob/main/README.md"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 <H3> Personal Details: </H3>
+
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [mithiladossantos@gmail.com](mailto:mithiladossantos@gmail.com)
 * 👥 I'm looking to collaborate on interesting and skill development projects

@@ -53,14 +53,13 @@ I am highly motivated to earn my first few milestones here, so you can expect 10
 ### Visit this repository:
 <a href="https://github.com/ShanjidaMithila/Work-Samples/blob/main/README.md"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
-<H4> Let’s connect and see how I can help you hit your goals. </H4>
-
+<H3> Personal Details: </H3>
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://www.upwork.com/freelancers/~01128caccef98f885a)
-* ✉️  You can contact me at [shanjidamithila568@gmail.com](mailto:shanjidamithila568@gmail.com)
-* 🧠  I'm currently learning new skills
-* 👥  I'm looking to collaborate on interesting projects
-* 💬  Ask me about I'm an aspiring YouTuber
+* ✉️  You can contact me at [mithiladossantos@gmail.com](mailto:mithiladossantos@gmail.com)
+* 👥 I'm looking to collaborate on interesting and skill development projects
+* 💬 Currently I'm an aspiring Content Creator
+
+<H4> Let’s connect and see how I can help you hit your goals. </H4>
 
 <p align="left">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a>

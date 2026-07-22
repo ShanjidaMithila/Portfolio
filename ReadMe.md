@@ -50,13 +50,8 @@ I am highly motivated to earn my first few milestones here, so you can expect 10
 
 <H2> Work Samples </H2>
 
-### Micro-News-Graphics / News-Cards
-
-Explore my micro news graphics and news card designs showcasing modern visual storytelling:
-
-- [Black & White Caption Notification Quotes Instagram Post](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/Black%20%26%20White%20Caption%20Notification%20Quotes%20Instagram%20Post_20260422_181659_0000.png)
-- [Black & White Caption Notification Quotes Instagram Post (v2)](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/Black%20%26%20White%20Caption%20Notification%20Quotes%20Instagram%20Post_20260422_191454_0000.png)
-- [ifeel80s Announces Indefinite Hiatus Following World Tour](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/ifeel80s%20Announces%20Indefinite%20Hiatus%20Following%20World%20Tour_20260422_195912_0000.png)
+### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/blob/main/README.md"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 <H4> Let’s connect and see how I can help you hit your goals. </H4>
 

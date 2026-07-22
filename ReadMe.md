@@ -51,7 +51,7 @@ I am highly motivated to earn my first few milestones here, so you can expect 10
 <H2> Work Samples </H2>
 
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/blob/main/README.md"><img src="https://github.com/ShanjidaMithila/Work-Samples/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/blob/main/README.md"><img src="https://photos.google.com/share/AF1QipOshxbL2FegFJNwYbe7gwXA6_XlYf-v37RN0o7P3F3-pbTfOZ7NvQi4bQos94fgwg?key=N2kzZDB6eEo3LTdhdWlMT0RicXRUZXEtdF9aUWZ3" alt="Repository Button" width="160" align="center"></a>
 
 <H4> Let’s connect and see how I can help you hit your goals. </H4>
 

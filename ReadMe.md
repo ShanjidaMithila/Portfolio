@@ -55,7 +55,7 @@ I am highly motivated to earn my first few milestones here, so you can expect 10
 
 <H3> Personal Details: </H3>
 
-* 🌍  I'm based in Bangladesh
+*🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [mithiladossantos@gmail.com](mailto:mithiladossantos@gmail.com)
 * 👥 I'm looking to collaborate on interesting and skill development projects
 * 💬 Currently I'm an aspiring Content Creator

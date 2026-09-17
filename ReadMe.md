@@ -75,4 +75,4 @@ I am highly motivated to earn my first few milestones here, so you can expect 10
 
 ### Support Me
 
-<a href="https://www.supportkori.com/mithila"><img src="https://tenor.com/view/buy-me-pizza-funny-sarcastic-text-post-gif-11605783" width="150"/></a>
+<a href="https://www.supportkori.com/mithila"><img src="https://media1.tenor.com/m/2gaw9zHDrk0AAAAC/buy-me-pizza-funny.gif" width="150"/></a>
